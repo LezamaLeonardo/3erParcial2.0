@@ -3,29 +3,29 @@ using namespace std;
 int main ()
 {
 
-int hora;
+int h;
 
 cout<<"dime la hora";
-cin>>hora;
+cin>>h;
 
-if (hora<12){;
+if (h<12){;
 
 cout<<"buenos dias!!";
 }
 
-if(hora>=13 &&hora <=19){;
-hora<19;
+if(h>=13 &&h <=19){;
+h<19;
 
 cout<<"buenas tardes!!";
 
 }
 
-if(hora>=20 &&hora <=24){;
+if(h>=20 &&h <=24){;
 
 cout<<"buenas noches!!";
 }
 
-if(hora>=25){;
+if(h>=25){;
 
 cout<<"¡¡¡¡¡hora invalida!!!!";
 
