@@ -1,0 +1,17 @@
+C:\Users\leona\source\repos\intento3\bin\Debug\net8.0-windows\intento3.exe
+C:\Users\leona\source\repos\intento3\bin\Debug\net8.0-windows\intento3.deps.json
+C:\Users\leona\source\repos\intento3\bin\Debug\net8.0-windows\intento3.runtimeconfig.json
+C:\Users\leona\source\repos\intento3\bin\Debug\net8.0-windows\intento3.dll
+C:\Users\leona\source\repos\intento3\bin\Debug\net8.0-windows\intento3.pdb
+C:\Users\leona\source\repos\intento3\obj\Debug\net8.0-windows\intento3.Form1.resources
+C:\Users\leona\source\repos\intento3\obj\Debug\net8.0-windows\intento3.csproj.GenerateResource.cache
+C:\Users\leona\source\repos\intento3\obj\Debug\net8.0-windows\intento3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\repos\intento3\obj\Debug\net8.0-windows\intento3.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\intento3\obj\Debug\net8.0-windows\intento3.AssemblyInfo.cs
+C:\Users\leona\source\repos\intento3\obj\Debug\net8.0-windows\intento3.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\intento3\obj\Debug\net8.0-windows\intento3.dll
+C:\Users\leona\source\repos\intento3\obj\Debug\net8.0-windows\refint\intento3.dll
+C:\Users\leona\source\repos\intento3\obj\Debug\net8.0-windows\intento3.pdb
+C:\Users\leona\source\repos\intento3\obj\Debug\net8.0-windows\intento3.genruntimeconfig.cache
+C:\Users\leona\source\repos\intento3\obj\Debug\net8.0-windows\ref\intento3.dll
+C:\Users\leona\source\repos\intento3\obj\Debug\net8.0-windows\intento3.Properties.Resources.resources
